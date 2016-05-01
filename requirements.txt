@@ -1,1 +1,4 @@
+# pre-requisites (for osx)
+# 1. brew install tesseract
+Pillow==3.2.0
 pytesseract==0.1.6
