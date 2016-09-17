@@ -2,3 +2,5 @@
 # 1. brew install tesseract
 Pillow==3.2.0
 pytesseract==0.1.6
+solrpy==0.9.7
+requests==2.11.1
