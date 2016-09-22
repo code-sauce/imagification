@@ -4,3 +4,7 @@ Pillow==3.2.0
 pytesseract==0.1.6
 solrpy==0.9.7
 requests==2.11.1
+
+
+# set up tensorflow
+# https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html#requirements
